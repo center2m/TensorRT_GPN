@@ -1,2 +1,2 @@
-# _tensorrt_k8s
+# TensorRT_GPN
 Тест и деплой TensorRT
